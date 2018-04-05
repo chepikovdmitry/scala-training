@@ -4,7 +4,7 @@ object  test extends App {
   def isAllDigits(x: String) = x forall Character.isDigit
 
 
-//gfdf1245
+//gfdf12456
 
 var input:String = "(11+2)*4+3"
 var stack = new mutable.Stack[String]
