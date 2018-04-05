@@ -3,7 +3,9 @@ import scala.collection.mutable
 object  test extends App {
   def isAllDigits(x: String) = x forall Character.isDigit
 
-//gfdf12
+
+//gfdf1245
+
 var input:String = "(11+2)*4+3"
 var stack = new mutable.Stack[String]
 var output:String = ""
